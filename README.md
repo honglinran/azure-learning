@@ -18,7 +18,28 @@
 
 8.  Keep attending the User Group for networking. Meet people . Talk to them. Anyone can have a job for you.
 
-## Git command:
+## Documentation
+
+### For every new project you do, you can have a repo.
+
+- Create a repo on Github.
+
+- Open terminal on your machine
+
+- Clone your repo to your local machine using:
+
+`git clone <repository_url>`
+
+- Navigate to the project directory 
+
+`cd  <repositry_name>`
+
+- Open VS code:
+
+`code .`
+
+
+### Git command:
 
 - git status
 
@@ -29,3 +50,4 @@
 - git status
 
 - git push
+
