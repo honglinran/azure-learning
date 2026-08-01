@@ -17,3 +17,15 @@
 7. It helps to also talk about your projects on Linkedin too.
 
 8.  Keep attending the User Group for networking. Meet people . Talk to them. Anyone can have a job for you.
+
+## Git command:
+
+- git status
+
+- git add <file path>
+
+- git commit -m "Your message"
+
+- git status
+
+- git push
